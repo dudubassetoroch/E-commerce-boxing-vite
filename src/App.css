@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.carousel-card{
+  display: flex;
+  flex-direction: column;
+}
+
+.carousel{
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}

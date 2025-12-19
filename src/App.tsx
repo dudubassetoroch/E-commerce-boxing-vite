@@ -1,11 +1,12 @@
 import './App.css'
+import { Carousel } from './assets/Components/Carousel'
 
 function App() {
 
   return (
-      <div>
-        Hello world
-      </div>
+    <>
+      <Carousel/>
+    </>
   )
 }
 
